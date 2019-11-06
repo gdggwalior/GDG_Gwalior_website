@@ -1,0 +1,21 @@
+{
+    "FeatureEventName":"",
+    "EventImage":"",
+    "EventDate":{
+        "Date":"",
+        "Month":"",
+        "Year":""
+    },
+    "EventTime":{
+        "StartTime":"",
+        "EndTime":""
+    },
+    "EventVenue":"",
+    "EventVenueMapLink":"",
+    "EventWebsite":"",
+    "EventDescription":"",
+    "MeetupLink":"",
+    "RegistrationLink":"",
+    "FBEventPageURL":""
+}
+

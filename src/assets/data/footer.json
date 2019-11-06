@@ -1,0 +1,62 @@
+{
+    "AboutSession":[
+        {
+            "LinkName":"GDG Gwalior",
+            "Link":"/"
+        },
+        {
+            "LinkName":"Google Developers Groups",
+            "Link":"https://developers.google.com/programs/community/gdg/"
+        },
+        {
+            "LinkName":"WomenTechamkers",
+            "Link":"https://www.womentechmakers.com/"
+        },
+        {
+            "LinkName":"Become a Member",
+            "Link":"https://www.meetup.com/gdg-gwalior/"
+        }
+    ],
+    "ChapterResourcesSession":[
+        {
+            "LinkName" : "Become a Sponsor",
+            "Link" : "mailto:gdggwalior@outlook.com"
+        },
+        {
+            "LinkName" : "Call for Speaker",
+            "Link" : "mailto:gdggwalior@outlook.com"
+        },
+        {
+            "LinkName" : "Media Kit",
+            "Link" : "https://drive.google.com/drive/folders/1_Do4BgryGHMTlOYdxUIYfosYurQLFXrJ?usp=sharing"
+        }
+    ],
+    "DevConsole":[
+        {
+            "LinkName" : "Google API Console",
+            "Link" : "https://console.developers.google.com/"
+        },
+        {
+            "LinkName" : "GCP Console",
+            "Link" : "https://console.cloud.google.com/"
+        },
+        {
+            "LinkName" : "Google Play Console",
+            "Link" : "https://console.cloud.google.com/"
+        },
+        {
+            "LinkName" : "Firebase Console",
+            "Link" : "https://console.firebase.google.com/"
+        }
+    ],
+    "FooterEndSession":[
+        {
+            "LinkName" : "Code of Conduct",
+            "Link" : "https://docs.google.com/document/d/1-tGLYwdw77oTxbq7RFkWTf6F9dNaz5RnJ2yP1Yw_BKM/edit?usp=sharing"
+        },
+        {
+            "LinkName" : "Terms & Servies",
+            "Link" : "https://docs.google.com/document/d/1BctOxdfPmaaHiw_4XKAMIxoECmvJw9JxHPeeLn9VNuM/edit?usp=sharing"
+        }
+    ]
+}

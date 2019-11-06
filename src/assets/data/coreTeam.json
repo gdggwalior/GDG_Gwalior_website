@@ -1,0 +1,29 @@
+[
+    {
+        "name":"Geeta Kakrani",
+        "designation":"Organizer",
+        "twitter":"https://twitter.com/GeetaKakrani",
+        "linkedin":"https://www.linkedin.com/in/geeta-kakrani-26058128",
+        "github":"",
+        "profileImage":"geeta.jpeg",
+        "website":""
+    },
+    {
+        "name":"Chirag Gupta",
+        "designation":"Main Co-organizer",
+        "twitter":"https://twitter.com/Hey_chirag",
+        "linkedin":"https://www.linkedin.com/in/chirag--gupta/",
+        "github":"https://github.com/infochirag",
+        "profileImage":"chirag.jpeg",
+        "website":"https://medium.com/@ugravadi.manav"
+    },
+    {
+        "name":"Mihika Khandelwal",
+        "designation":"Co-organizer",
+        "twitter":"https://www.twitter.com/Mihikakhandelw1",
+        "linkedin":"",
+        "github":"https://github.com/mihika1029",
+        "profileImage":"mihika.jpg",
+        "website":""
+    }
+   ]

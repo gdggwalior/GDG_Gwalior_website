@@ -1,0 +1,83 @@
+[
+    {
+        "name":"Mansi Jain",
+        "designation":"Web Development",
+        "twitter":"https://twitter.com/MansiJa71297797?s=09",
+        "linkedin":"https://www.linkedin.com/in/mansi-jain-977796185",
+        "github":"https://github.com/Mansi7814",
+        "profileImage":"mansi.jpeg",
+        "website":""
+    },
+ {
+        "name":"Aditi Singh",
+        "designation":"Management",
+        "twitter":"",
+        "linkedin":"https://www.linkedin.com/in/aditisingh2362/",
+        "github":"https://github.com/aditisingh2362",
+        "profileImage":"aditi.png",
+        "website":""
+    },
+    {
+        "name":"Prajwal Singh",
+        "designation":"Development",
+        "twitter":"https://twitter.com/Prajwal16910047/",
+        "linkedin":"https://www.linkedin.com/in/prajwal-singh-146b8415b/",
+        "github":"https://github.com/prajwal714",
+        "profileImage":"prajwal.jpeg",
+        "website":""
+    },
+    {
+        "name":"Shivam Agrawal",
+        "designation":"Development",
+        "twitter":"https://twitter.com/",
+        "linkedin":"https://www.linkedin.com/in/shivam-agrawal-a4a414181/",
+        "github":"https://github.com/shivam1192/",
+        "profileImage":"shivam.jpeg",
+        "website":""
+    },
+    {
+        "name":"Ashray Gupta",
+        "designation":"Development",
+        "twitter":"https://twitter.com/GuptaAshray",
+        "linkedin":"https://www.linkedin.com/in/ashray-gupta-2509b988/",
+        "github":"https://github.com/ashraygupta001/",
+        "profileImage":"ashray.jpeg",
+        "website":""
+    },
+    {
+        "name":"Sagarika Singh",
+        "designation":"Web Development",
+        "twitter":"",
+        "linkedin":"https://www.linkedin.com/in/sagarika-singh-2a0195181",
+        "github":"https://github.com/saga1608",
+        "profileImage":"sagarika.jpeg",
+        "website":""
+    },
+{
+        "name":"Anurag Barde",
+        "designation":"Management",
+        "twitter":"https://twitter.com/Anuraagbarde",
+        "linkedin":"https://www.linkedin.com/in/anuraagbarde",
+        "github":"https://www.github.com/anuraagbarde",
+        "profileImage":"anurag.jpeg",
+        "website":""
+    },
+{
+        "name":"Rachit Garg",
+        "designation":"Management",
+        "twitter":"",
+        "linkedin":"https://www.linkedin.com/in/rachit-garg-89a2ba16b",
+        "github":"https://github.com/rachit201",
+        "profileImage":"rachit.jpeg",
+        "website":""
+    },
+{
+        "name":"Abhishek Goklani",
+        "designation":"Management",
+        "twitter":"https://twitter.com/GoklaniAbhishek",
+        "linkedin":"https://www.linkedin.com/in/abhishek-goklani-a71338118/",
+        "github":"https://github.com/abhigoklani",
+        "profileImage":"abhishek.jpeg",
+        "website":""
+    }
+]
